@@ -3,7 +3,9 @@
 #### 1. Home
 <img width="1146" alt="Screenshot 2023-04-18 at 12 56 20 PM" src="https://user-images.githubusercontent.com/123542137/232752637-3057b57c-b254-4c8e-9309-60bfd1bdb909.png">
 #### 2.Most affected state among all the states ( total death/total covid cases)
+
 <img width="577" alt="Screenshot 2023-04-18 at 2 17 54 PM" src="https://user-images.githubusercontent.com/123542137/232752997-1167838e-5603-4a4f-ac96-488bece3d530.png">
+
 #### 3.Least affected state among all the states ( total death/total covid cases).
 
 <img width="952" alt="Screenshot 2023-04-18 at 2 18 15 PM" src="https://user-images.githubusercontent.com/123542137/232753383-8ba9e833-392a-4949-b8a7-4cae4c2fb254.png">
